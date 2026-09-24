@@ -22,7 +22,7 @@ const TopBar = () => {
 					</Link>
 
 					<a
-						href="https://github.com/orgs/UTEC-Logger/"
+						href="https://github.com/Maykol-Morales/cs2032-logger"
 						target="_blank"
 						rel="noopener noreferrer"
 						className="flex items-center gap-2 px-4 py-2 rounded-md bg-zinc-800 hover:bg-zinc-700 transition-colors duration-200"

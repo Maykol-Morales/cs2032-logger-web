@@ -1,11 +1,13 @@
 {
-  "name": "front",
+  "name": "cs2032-logger-web",
   "version": "1.0.0",
   "private": true,
-  "description": "front",
+  "description": "Visor web de logs generados por utec-logger (CS2032 Cloud Computing, UTEC)",
   "author": "Maykol Morales Morante",
   "keywords": [
-    "gatsby"
+    "gatsby",
+    "logger",
+    "utec-logger"
   ],
   "scripts": {
     "develop": "gatsby develop",
@@ -16,15 +18,16 @@
   },
   "dependencies": {
     "autoprefixer": "^10.4.20",
-    "fs": "^0.0.1-security",
     "gatsby": "^5.13.7",
     "gatsby-plugin-postcss": "^6.13.1",
     "lucide-react": "^0.507.0",
-    "path": "^0.12.7",
     "postcss": "^8.4.47",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "sqlite3": "^5.1.7",
     "tailwindcss": "^3.4.13"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Maykol-Morales/cs2032-logger-web"
   }
 }
